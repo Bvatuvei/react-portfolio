@@ -1,4 +1,5 @@
 import React from "react";
+import resumeImg from '../../assets/images/Resume.png'
 
 function Resume() {
 
@@ -126,6 +127,9 @@ function Resume() {
           </li>
         </ul>
         </div>
+        </div>
+        <div>
+          <h3 className="fs-5">Download my full <a download href={resumeImg} target='_blank'>resume</a></h3>
         </div>
         </section>
     )
