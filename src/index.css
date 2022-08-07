@@ -18,6 +18,30 @@ main {
 
 }
 
+.primary-color {
+  color: var(--primary);
+}
+
+.secondary-color {
+  color: var(--secondary);
+}
+
+.tertiary-color {
+  color: var(--tertiary);
+}
+
+.light-color {
+  color: var(--light);
+}
+
+.dark-color {
+  color: var(--dark);
+}
+
+.darker-color {
+  color: var(--darker);
+}
+
 * {
   box-sizing: border-box;
 }
@@ -230,10 +254,7 @@ textarea {
   padding-bottom: var(--spacing-two);
 }
 
-.card {
-  width: 25%;
-  text-align: center;
-}
+
 
 .img-thumbnail {
   width: auto;
@@ -297,4 +318,52 @@ a {
 .nav-logo-image {
   width: 50px;
   height: 50px;
+}
+
+.resume-svg-image {
+  width: 100px;
+  height: 100px;
+}
+
+.about-me-image {
+  width: 200px;
+  height: 200px;
+}
+
+.run-buddy-card {
+  background-image: url('./assets/images/Run-Buddy.png');
+  background-size: cover;
+}
+
+.stay-protected-card {
+  background-image: url('./assets/images/Password.png');
+  background-size: cover;
+}
+
+.taskmaster-card {
+  background-image: url('./assets/images/TaskMaster.png');
+  background-size: cover;
+}
+
+.marvelous-gifs-card {
+  background-image: url('./assets/images/Marvelous-Gifs.png');
+  background-size: cover;
+}
+
+.fitness-tracker-card {
+  background-image: url('./assets/images/Fitness-App.png');
+  background-size: cover;
+}
+
+.skills-border {
+  border-style: solid;
+  padding-top: 15px;
+}
+
+.skills-background {
+  background-color: var(--light);
+}
+
+.education-list {
+  list-style-type: circle;
 }

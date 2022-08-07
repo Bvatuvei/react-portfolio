@@ -11,7 +11,7 @@ function App() {
   const [categories] = useState([
     {
       name: 'projects',
-      description: 'My Projects',
+      description: 'A list of a majority of my projects that I have made and participated in so far.',
     },
     { name: 'resume', description: 'My resume' },
   ]);
@@ -33,6 +33,7 @@ function App() {
         {!contactSelected ? (
           <>
           <Gallery currentCategory={currentCategory}></Gallery>
+          {currentCategory.name === 'resume' ? <Resume /> : <Project currentCategory={currentCategory} /> }
           <About></About>
           </>
         ) : (

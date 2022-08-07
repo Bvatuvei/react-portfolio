@@ -4,10 +4,10 @@ function About() {
   return (
     <section className="my-5">
       <h1 id="about">Who am I?</h1>
-      <img src={coverImage} className="my-2" style={{ width: "100%" }} alt="cover" />
+      <img src={coverImage} className="my-2 about-me-image " alt="cover" />
       <div className="my-2">
         <p>
-        My name is Bryson Filosiliva Vatuvei. I was born in Las Vegas, Nevada in 2000 which makes me 22 years old. 
+        My name is Bryson Filosiliva Vatuvei. I was born in Las Vegas, Nevada on April 13, 2000. 
         Although ive lived in a few states I grew up mainly in Utah. 
         Some values I hold very close to me are family and kindness. 
         I have worked in the construction field for the past 3 years, but I love technology so I wanted to work in something having to do with it.
