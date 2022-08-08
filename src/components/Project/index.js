@@ -75,11 +75,28 @@ function Project() {
         <div class="col-sm-6">
         <div class="card fitness-tracker-card">
           <div class="card-body">
-            <a href="https://enigmatic-tor-51827.herokuapp.com/" class="card-link">
+            <a href="https://enigmatic-tor-51827.herokuapp.com/" class="card-link" target='_blank'>
             <h5 class="card-title secondary-color fw-bold">Fitness Tracker</h5>
             </a>
             <h6 class="card-subtitle mb-2 secondary-color fw-bold">Teamwork/All Back End Skills</h6>
             <a href="https://github.com/JaydenCowley/fitness-tracker" class="card-link" target='_blank'>
+                <img
+                src={gitHubImg}
+                className='nav-logo-image'
+                />
+            </a>
+          </div>
+        </div>
+        </div>
+
+        <div class="col-sm-6">
+        <div class="card react-project-card">
+          <div class="card-body">
+            <a href="https://bvatuvei.github.io/photo-port/" class="card-link" target='_blank'>
+            <h5 class="card-title light-color fw-bold">Photo-Port</h5>
+            </a>
+            <h6 class="card-subtitle mb-2 light-color fw-bold">React/bootstrap</h6>
+            <a href="https://github.com/Bvatuvei/photo-port" class="card-link" target='_blank'>
                 <img
                 src={gitHubImg}
                 className='nav-logo-image'

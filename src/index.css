@@ -355,6 +355,11 @@ a {
   background-size: cover;
 }
 
+.react-project-card {
+  background-image: url('./assets/images/react-project.jpg');
+  background-size: cover;
+}
+
 .skills-border {
   border-style: solid;
   padding-top: 15px;
