@@ -17,7 +17,7 @@ function Nav(props) {
   return (
     <header className="flex-row px-1">
       <h2>
-        <a href="/">
+        <a href="/react-portfolio/">
           <img
             src={require(`../../assets/images/letterB.jpg`)}
             alt="letter B logo"
