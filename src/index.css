@@ -360,6 +360,11 @@ a {
   background-size: cover;
 }
 
+.art-of-jenna-card {
+  background-image: url('./assets/images/Art-Of-Jennna-Louise.jpg');
+  background-size: cover;
+}
+
 .skills-border {
   border-style: solid;
   padding-top: 15px;

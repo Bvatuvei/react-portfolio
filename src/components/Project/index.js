@@ -105,6 +105,23 @@ function Project() {
           </div>
         </div>
         </div>
+
+        <div class="col-sm-6">
+        <div class="card art-of-jenna-card">
+          <div class="card-body">
+            <a href="https://artofjenna.herokuapp.com" class="card-link" target='_blank'>
+            <h5 class="card-title primary-color fw-bold">Art Of Jenna Louise</h5>
+            </a>
+            <h6 class="card-subtitle mb-2 primary-color fw-bold">React/MongoDB/Stripe</h6>
+            <a href="https://github.com/attidack/Art-of-Jenna-Louise" class="card-link" target='_blank'>
+                <img
+                src={gitHubImg}
+                className='nav-logo-image'
+                />
+            </a>
+          </div>
+        </div>
+        </div>
     </section>
   );
 }
