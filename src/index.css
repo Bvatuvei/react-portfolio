@@ -365,6 +365,11 @@ a {
   background-size: cover;
 }
 
+.book-search-card {
+  background-image: url('./assets/images/book-search.png');
+  background-size: cover;
+}
+
 .skills-border {
   border-style: solid;
   padding-top: 15px;
