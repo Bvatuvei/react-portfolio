@@ -335,6 +335,10 @@ a {
   background-size: cover;
 }
 
+.project-information:hover {
+  background-color:rgba(0, 0, 0, .6);
+}
+
 .stay-protected-card {
   background-image: url('./assets/images/Password.png');
   background-size: cover;
