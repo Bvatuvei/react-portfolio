@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.6c804e55.css",
-    "main.js": "/react-portfolio/static/js/main.848f1f73.js",
+    "main.js": "/react-portfolio/static/js/main.a2aa810e.js",
     "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
     "static/media/Marvelous-Gifs.png": "/react-portfolio/static/media/Marvelous-Gifs.3afecf0fe37a605daaa6.png",
     "static/media/react-project.jpg": "/react-portfolio/static/media/react-project.9798776465b330d7b8f8.jpg",
     "static/media/Run-Buddy.png": "/react-portfolio/static/media/Run-Buddy.55e16480f0a150153db3.png",
     "static/media/Art-Of-Jennna-Louise.jpg": "/react-portfolio/static/media/Art-Of-Jennna-Louise.71a76cd817a23aa5a067.jpg",
     "static/media/book-search.png": "/react-portfolio/static/media/book-search.8ff9a8427e3cfc6e31c3.png",
-    "static/media/Resume.png": "/react-portfolio/static/media/Resume.b0c97e1586e01664a150.png",
+    "static/media/Resume.png": "/react-portfolio/static/media/Resume.a9c86c16cf923aaa3250.png",
     "static/media/Password.png": "/react-portfolio/static/media/Password.c848b08cbc669cf11dfb.png",
     "static/media/bryson.jpg": "/react-portfolio/static/media/bryson.4370edb83ac0570369a0.jpg",
     "static/media/TaskMaster.png": "/react-portfolio/static/media/TaskMaster.09fc1f6c760c4a7a13fa.png",
@@ -17,11 +17,11 @@
     "static/media/linked-in.png": "/react-portfolio/static/media/linked-in.7a5eab93c7daf7d2ceeb.png",
     "index.html": "/react-portfolio/index.html",
     "main.6c804e55.css.map": "/react-portfolio/static/css/main.6c804e55.css.map",
-    "main.848f1f73.js.map": "/react-portfolio/static/js/main.848f1f73.js.map",
+    "main.a2aa810e.js.map": "/react-portfolio/static/js/main.a2aa810e.js.map",
     "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6c804e55.css",
-    "static/js/main.848f1f73.js"
+    "static/js/main.a2aa810e.js"
   ]
 }
