@@ -3,10 +3,14 @@ import coverImage from '../../assets/images/bryson.jpg';
 function About() {
   return (
     <section className="my-5">
-      <h1 id="about">Who am I?</h1>
-      <img src={coverImage} className="my-2 about-me-image " alt="cover" />
+      <div className='flex-div'>
+      <h1 id="about" className='about-h1'>Who Am I?</h1>
+      </div>
+      <div className='flex-div'>
+      <img src={coverImage} className=" about-me-image " alt="cover" />
+      </div>
       <div className="my-2">
-        <p>
+        <p className='text-center'>
         My name is Bryson Filosiliva Vatuvei. I was born in Las Vegas, Nevada on April 13, 2000. 
         Although I've lived in a few states I grew up mainly in Utah. 
         Some values I hold very close to me are family and kindness. 

@@ -325,9 +325,20 @@ a {
   height: 100px;
 }
 
+.flex-div {
+  display: flex;
+  justify-content: space-around;
+}
+
 .about-me-image {
-  width: 200px;
-  height: 200px;
+  width: 15%;
+  border-radius: 75px;
+  border: 2px solid var(--primary);
+}
+
+.about-h1 {
+  margin-bottom: 15px;
+  border-bottom: 2px solid var(--primary);
 }
 
 .run-buddy-card {
