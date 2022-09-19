@@ -353,7 +353,13 @@ a {
 }
 
 .project-information:hover {
-  background-color:rgba(0, 0, 0, .6);
+  background-color:rgba(0, 0, 0, .85);
+}
+
+.project-information:hover #card-h5 {
+  color: #dc143c;
+  font-style: oblique;
+  text-decoration: underline;
 }
 
 .stay-protected-card {
