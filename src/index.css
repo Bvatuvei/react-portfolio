@@ -330,6 +330,12 @@ a {
   justify-content: space-around;
 }
 
+.flex-footer {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
 .about-me-image {
   width: 15%;
   border-radius: 75px;
